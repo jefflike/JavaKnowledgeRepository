@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jeff_code.stuMapperDynamicSql">
+    <select id="selectStuByConditionIfAndWhere" resultType="com.jeff_code.stu">
+        select sid, sname, addr from stu
+        <where>
+            <if test="sid != null">
+                sid = #{sid}
+            </if>
+            <if test="sname != null and sname.trim() != ''">
+              and sname = #{sname}
+            </if>
+            <if test="addr != null ">
+              and addr = #{addr}
+            </if>
+        </where>
+    </select>
+
+    <select id="selectStuByConditionTrim" resultType="com.jeff_code.stu">
+        select sid, sname, addr from stu
+        <trim prefix="WHERE" suffixOverrides="AND|OR">
+            <if test="sid != null">
+                sid = #{sid} and
+            </if>
+            <if test="sname != null and sname.trim() != ''">
+                sname = #{sname} and
+            </if>
+            <if test="addr != null ">
+                addr = #{addr}
+            </if>
+        </trim>
+    </select>
+</mapper>

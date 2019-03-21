@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jeff_code.empMapper">
+    <select id="selectEmpByPojo" resultType="com.jeff_code.emp">
+        select id, name, age, deptId, empno from t_emp where id = #{id} and age = #{age}
+    </select>
+
+    <select id="selectEmpByMap" resultType="com.jeff_code.emp">
+        select id, name, age, deptId, empno from t_emp where id = #{mapId} and age = #{mapAge}
+    </select>
+
+    <select id="selectEmpInMap" resultType="map">
+        select id, name, age, deptId, empno from t_emp where id = #{id}
+    </select>
+
+    <select id="selectEmpReturnMap" resultType="map">
+        select id, name, age, deptId, empno from t_emp
+    </select>
+</mapper>

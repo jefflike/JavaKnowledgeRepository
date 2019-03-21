@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jeff_code.stuMapper">
+    <select id="selectStuById" resultType="com.jeff_code.stu">
+    select sid, sname, addr from stu where sid = #{id}
+  </select>
+
+    <!--获取到最后一个插入数据的id-->
+    <insert id="inserStu" parameterType="com.jeff_code.stu"
+    useGeneratedKeys="true" keyProperty="sid">
+        insert into stu(sid, sname, addr)
+        values(#{sid}, #{sname}, #{addr})
+    </insert>
+    <!--select sid, sname, addr from stu where sid = #{param1} and sname = #{param2}-->
+    <!--select sid, sname, addr from stu where sid = #{0} and sname = #{1}-->
+    <select id="selectStuByIdAndName" resultType="com.jeff_code.stu">
+        select sid, sname, addr from stu where sid = #{id} and sname = #{name}
+    </select>
+    <select id="selectAllStus" resultType="com.jeff_code.stu">
+        select * from stu
+    </select>
+</mapper>

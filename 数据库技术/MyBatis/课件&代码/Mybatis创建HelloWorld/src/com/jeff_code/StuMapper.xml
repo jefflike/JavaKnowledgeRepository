@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jeff_code.StuMapper">
+    <!--
+        <select>:定义查询的sql语句.
+            id: sql语句的唯一标识
+            resultType: 结果集的封装类型.
+            #{id}: 取参数值.
+     -->
+    <select id="selectStuById" resultType="com.jeff_code.stu">
+        <!-- select *  from tbl_employee where id = #{id} -->
+        select id ,name from t_emp where id = #{id}
+    </select>
+</mapper>

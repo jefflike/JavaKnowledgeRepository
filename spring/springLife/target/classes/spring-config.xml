@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="person" class="com.jeff_code.Person" init-method="init" destroy-method="destory">
+        <property name="name" value="xixi"></property>
+    </bean>
+    <!--前后置处理器是生命周期的一个步骤，不需要我们配id调用的-->
+    <bean class="com.jeff_code.MyBeanPostProcessor">
+
+    </bean>
+</beans>
+

@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: product
+#    数据库连接
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.31.7:3306/jpatest?useUnicode=true&characterEncoding=utf-8&useSSL=true
+    username: ding
+    password: root
+#    默认使用的orm产品
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+  thymeleaf:
+    mode: LEGACYHTML5
+    cache: false
