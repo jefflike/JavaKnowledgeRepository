@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CGlibDynamicProxy/CGlibDynamicProxy.iml" filepath="$PROJECT_DIR$/CGlibDynamicProxy/CGlibDynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DJDynamicProxy/DJDynamicProxy.iml" filepath="$PROJECT_DIR$/DJDynamicProxy/DJDynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleDynamicProxy/SimpleDynamicProxy.iml" filepath="$PROJECT_DIR$/SimpleDynamicProxy/SimpleDynamicProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dynamicProxy.iml" filepath="$PROJECT_DIR$/.idea/dynamicProxy.iml" />
     </modules>

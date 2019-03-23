@@ -153,7 +153,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="198" />
     <option name="y" value="10" />
     <option name="width" value="1115" />
@@ -390,7 +390,7 @@
       <updated>1552578350232</updated>
       <workItem from="1552578353292" duration="1800000" />
       <workItem from="1552809295848" duration="6797000" />
-      <workItem from="1552916550084" duration="6293000" />
+      <workItem from="1552916550084" duration="6966000" />
     </task>
     <servers />
   </component>
@@ -427,7 +427,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14890000" />
+    <option name="totallyTimeSpent" value="15563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -443,7 +443,7 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39972898" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39972898" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
@@ -453,7 +453,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32249323" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23200513" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23200513" />
       <window_info anchor="right" id="BPMNPalette" order="0" weight="0.21465296" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Theme Preview" order="10" />
