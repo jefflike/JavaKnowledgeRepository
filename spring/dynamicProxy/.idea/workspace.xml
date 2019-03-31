@@ -17,7 +17,7 @@
       <file leaf-file-name="SimpleDynamicProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleDynamicProxy/src/main/java/com/jeffcode/SimpleDynamicProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="275">
               <caret line="14" selection-start-line="14" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -26,20 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CGlibDynamicProxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CGlibDynamicProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/CGlibDynamicProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="300">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,7 +50,7 @@
       <file leaf-file-name="Jefflike.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/entity/Jefflike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
+            <state relative-caret-position="500">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
@@ -59,11 +59,8 @@
       <file leaf-file-name="HouseAgency.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/entity/HouseAgency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
+            <state relative-caret-position="950">
               <caret line="38" column="42" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -136,11 +133,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="198" />
-    <option name="y" value="10" />
-    <option name="width" value="1115" />
-    <option name="height" value="819" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="7" />
+    <option name="width" value="1083" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -155,102 +152,12 @@
               <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
               <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="CGlibDynamicProxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="CGlibDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="CGlibDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="CGlibDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="CGlibDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jeffcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="CGlibDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jeffcode" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleDynamicProxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jeffcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dynamicProxy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleDynamicProxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jeffcode" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,7 +165,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/Tom老师上课的所有源码(内含详细说明)/gupaoedu-singleton" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -425,6 +332,7 @@
       <updated>1553176177567</updated>
       <workItem from="1553176178967" duration="2199000" />
       <workItem from="1553179665243" duration="12236000" />
+      <workItem from="1553414540901" duration="4526000" />
     </task>
     <servers />
   </component>
@@ -461,15 +369,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14435000" />
+    <option name="totallyTimeSpent" value="18961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -477,11 +383,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32969153" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32791328" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32791328" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17030849" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1381748" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="BPMNPalette" order="0" weight="0.21465296" />
       <window_info anchor="right" id="SciView" order="8" />
@@ -492,6 +398,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972898" />
       <window_info id="BPMN Editor" order="0" sideWeight="0.49931413" weight="0.21465296" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Spring" order="7" />
@@ -553,6 +460,47 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SimpleDynamicProxy/src/main/java/com/jeffcode/SimpleDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" selection-start-line="14" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/entity/Jefflike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/entity/HouseAgency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/CGlibDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleDynamicProxy/src/main/java/com/jeffcode/SimpleDynamicProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -728,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-562">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,16 +686,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleDynamicProxy/src/main/java/com/jeffcode/SimpleDynamicProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="275">
           <caret line="14" selection-start-line="14" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -760,28 +698,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/entity/HouseAgency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
+        <state relative-caret-position="950">
           <caret line="38" column="42" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/entity/Jefflike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
+        <state relative-caret-position="500">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/src/main/java/com/jeffcode/CGlibDynamicProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="300">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGlibDynamicProxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>

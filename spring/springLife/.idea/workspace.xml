@@ -16,7 +16,7 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="475">
               <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -46,17 +46,17 @@
       <file leaf-file-name="Resource.class" pinned="false" current-in-tab="false">
         <entry file="jar://E:/RepMaven/org/springframework/spring-core/5.0.6.RELEASE/spring-core-5.0.6.RELEASE.jar!/org/springframework/core/io/Resource.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
+            <state relative-caret-position="575">
               <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyProxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/MyProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="425">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="48" selection-start-line="48" selection-end-line="60" selection-end-column="12" />
+            <state relative-caret-position="188">
+              <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -104,7 +104,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>getInputStream</find>
+      <find>BeanFactory</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,18 +158,19 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="198" />
-    <option name="y" value="10" />
-    <option name="width" value="1115" />
-    <option name="height" value="819" />
+    <option name="x" value="-7" />
+    <option name="y" value="7" />
+    <option name="width" value="1083" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,28 +233,10 @@
               <item name="spring-core-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
               <item name="springframework" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springLife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springLife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:5.0.6.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-5.0.6.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,6 +378,7 @@
       <workItem from="1552578353292" duration="1800000" />
       <workItem from="1552809295848" duration="6797000" />
       <workItem from="1552916550084" duration="6966000" />
+      <workItem from="1553414531298" duration="1876000" />
     </task>
     <servers />
   </component>
@@ -427,10 +415,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15563000" />
+    <option name="totallyTimeSpent" value="17439000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -443,9 +431,8 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39972898" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972898" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -453,21 +440,22 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32249323" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23200513" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1600257" />
       <window_info anchor="right" id="BPMNPalette" order="0" weight="0.21465296" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info id="BPMN Editor" order="0" sideWeight="0.49931413" weight="0.21465296" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Bean Validation" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" sideWeight="0.5006859" side_tool="true" weight="0.32971373" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info id="Web" order="6" sideWeight="0.5006859" side_tool="true" weight="0.32971373" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -864,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/RepMaven/org/springframework/spring-core/5.0.6.RELEASE/spring-core-5.0.6.RELEASE.jar!/org/springframework/core/io/InputStreamSource.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -880,37 +861,16 @@
     </entry>
     <entry file="jar://E:/RepMaven/org/springframework/spring-core/5.0.6.RELEASE/spring-core-5.0.6.RELEASE.jar!/org/springframework/core/io/Resource.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
+        <state relative-caret-position="575">
           <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/MyResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/MyResource.java" />
     <entry file="jar://E:/RepMaven/org/springframework/spring-core/5.0.6.RELEASE/spring-core-5.0.6.RELEASE.jar!/org/springframework/core/io/AbstractResource.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="48" selection-start-line="48" selection-end-line="60" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -923,7 +883,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="475">
           <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -933,11 +893,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/MyProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="425">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jeff_code/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
