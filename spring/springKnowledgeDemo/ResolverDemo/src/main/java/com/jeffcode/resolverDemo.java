@@ -3,7 +3,6 @@ package com.jeffcode;
 import org.junit.Test;
 import org.springframework.core.io.DefaultResourceLoader;
 import org.springframework.core.io.FileSystemResource;
-import org.springframework.core.io.ProtocolResolver;
 import org.springframework.core.io.Resource;
 
 /**

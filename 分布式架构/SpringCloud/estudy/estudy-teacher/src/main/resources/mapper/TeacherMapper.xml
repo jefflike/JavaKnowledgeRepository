@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper SYSTEM "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace:命名空间：接口的全路径-->
+<mapper namespace="com.jeff_code.estudy.teacher.mapper.TeacherMapper">
+    <select id="selectPage" resultType="com.jeff_code.estudy.bean.EduTeacher">
+        SELECT * FROM edu_teacher
+        ORDER by ID ASC
+        limit #{param1},#{param2}
+    </select>
+
+    <select id="selectByParam" resultType="com.jeff_code.estudy.bean.EduTeacher"
+        parameterType="com.jeff_code.estudy.util.TeacherParam">
+        SELECT * FROM edu_teacher
+        <where>
+            <if test="name!=null and name.trim()!=''">
+                and NAME LIKE concat('%',#{name},'%')
+            </if>
+            <if test="createTime!=null  and createTime.trim()!=''">
+                and CREATE_TIME LIKE concat('%',#{createTime},'%')
+            </if>
+            <if test="updateTime!=null  and updateTime.trim()!=''">
+                and UPDATE_TIME LIKE
+                concat('%',#{updateTime},'%')
+            </if>
+            <if test="isStar!=null">
+                and IS_STAR LIKE
+                concat('%',#{isStar},'%')
+            </if>
+        </where>
+        ORDER  BY ID ASC
+    </select>
+</mapper>

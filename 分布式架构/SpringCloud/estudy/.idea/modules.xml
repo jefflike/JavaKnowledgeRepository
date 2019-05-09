@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RegisterCenter/RegisterCenter.iml" filepath="$PROJECT_DIR$/RegisterCenter/RegisterCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudy.iml" filepath="$PROJECT_DIR$/.idea/estudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-bean/estudy-bean.iml" filepath="$PROJECT_DIR$/estudy-bean/estudy-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-common-util/estudy-common-util.iml" filepath="$PROJECT_DIR$/estudy-common-util/estudy-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-interface/estudy-interface.iml" filepath="$PROJECT_DIR$/estudy-interface/estudy-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-manage/estudy-manage.iml" filepath="$PROJECT_DIR$/estudy-manage/estudy-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-parent/estudy-parent.iml" filepath="$PROJECT_DIR$/estudy-parent/estudy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-service-util/estudy-service-util.iml" filepath="$PROJECT_DIR$/estudy-service-util/estudy-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-teacher/estudy-teacher.iml" filepath="$PROJECT_DIR$/estudy-teacher/estudy-teacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudy-web-util/estudy-web-util.iml" filepath="$PROJECT_DIR$/estudy-web-util/estudy-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>

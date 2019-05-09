@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/estudy-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/RegisterCenter/pom.xml" />
+        <option value="$PROJECT_DIR$/estudy-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/estudy-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/user/pom.xml" />
+        <option value="$PROJECT_DIR$/estudy-teacher/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs-client-java/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

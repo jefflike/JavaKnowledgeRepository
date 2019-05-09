@@ -9,7 +9,10 @@
         <module name="BeanLoader" />
         <module name="classloaderDemo" />
         <module name="FactoryBeanDemo" />
+        <module name="listenerDemo" />
         <module name="ResolverDemo" />
+        <module name="servletlistener" />
+        <module name="SpringListener" />
       </profile>
     </annotationProcessing>
   </component>

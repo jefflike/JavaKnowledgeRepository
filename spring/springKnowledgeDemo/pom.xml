@@ -12,6 +12,9 @@
         <module>ResolverDemo</module>
         <module>BeanLoader</module>
         <module>FactoryBeanDemo</module>
+        <module>listenerDemo</module>
+        <module>servletlistener</module>
+        <module>SpringListener</module>
     </modules>
 
     <packaging>pom</packaging>

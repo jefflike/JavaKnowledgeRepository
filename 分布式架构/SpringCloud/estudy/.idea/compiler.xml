@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="estudy-bean" />
+        <module name="estudy-common-util" />
+        <module name="estudy-interface" />
+        <module name="estudy-manage" />
+        <module name="estudy-service-util" />
+        <module name="estudy-teacher" />
+        <module name="estudy-web-util" />
+        <module name="fastdfs-client-java" />
+        <module name="RegisterCenter" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="estudy-bean" target="1.8" />
+      <module name="estudy-common-util" target="1.8" />
+      <module name="estudy-interface" target="1.8" />
+      <module name="estudy-manage" target="1.8" />
+      <module name="estudy-manage-service" target="1.8" />
+      <module name="estudy-manage-web" target="1.8" />
+      <module name="estudy-parent" target="1.8" />
+      <module name="estudy-service-util" target="1.8" />
+      <module name="estudy-teacher" target="1.8" />
+      <module name="estudy-user-service" target="1.8" />
+      <module name="estudy-user-web" target="1.8" />
+      <module name="estudy-web-util" target="1.8" />
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="RegisterCenter" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

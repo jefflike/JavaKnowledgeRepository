@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper SYSTEM "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace:命名空间：接口的全路径-->
+<mapper namespace="com.jeff_code.estudy.user.mapper.EduUserMapper">
+
+    <select id="selectByPr" parameterType="com.jeff_code.estudy.util.EduUserParam"
+        resultType="com.jeff_code.estudy.bean.EduUser">
+        SELECT * FROM edu_user
+        <where>
+            <if test="createTime!=null  and createTime.trim()!=''">
+                and CREATE_TIME LIKE concat('%',#{createTime},'%')
+            </if>
+            <if test="lastSystemTime!=null  and lastSystemTime.trim()!=''">
+                    and LAST_SYSTEM_TIME LIKE concat('%',#{lastSystemTime},'%')
+            </if>
+            <if test="isAvalible!=null">
+                and AVALIBLE=#{isAvalible}
+            </if>
+           <if test="param!=null  and param.trim()!=''">
+                AND USER_NAME LIKE concat('%',#{param},'%')
+               OR SHOW_NAME LIKE concat('%',#{param},'%')
+               OR EMAIL LIKE concat('%',#{param},'%')
+            </if>
+        </where>
+    </select>
+
+    <select id="getEduUserPage" resultType="com.jeff_code.estudy.bean.EduUser">
+        SELECT * FROM edu_user
+        ORDER  BY USER_ID ASC
+        LIMIT #{param1},#{param2}
+    </select>
+
+    <select id="selectByPrLi"  resultType="com.jeff_code.estudy.bean.EduUser">
+        SELECT * FROM edu_user
+        <where>
+            <if test="createTime!=null  and createTime.trim()!=''">
+                and CREATE_TIME LIKE concat('%',#{createTime},'%')
+            </if>
+            <if test="lastSystemTime!=null  and lastSystemTime.trim()!=''">
+                and LAST_SYSTEM_TIME LIKE concat('%',#{lastSystemTime},'%')
+            </if>
+            <if test="isAvalible!=null">
+                and AVALIBLE=#{isAvalible}
+            </if>
+            <if test="param!=null  and param.trim()!=''">
+                AND USER_NAME LIKE concat('%',#{param},'%')
+                OR SHOW_NAME LIKE concat('%',#{param},'%')
+                OR EMAIL LIKE concat('%',#{param},'%')
+            </if>
+        </where>
+        ORDER  BY USER_ID ASC
+        LIMIT #{pageno},#{pagasize}
+    </select>
+</mapper>

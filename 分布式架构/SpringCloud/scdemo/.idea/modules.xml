@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RegistryCenter/RegistryCenter.iml" filepath="$PROJECT_DIR$/RegistryCenter/RegistryCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-dept-8001/provider-dept-8001.iml" filepath="$PROJECT_DIR$/provider-dept-8001/provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scdemo.iml" filepath="$PROJECT_DIR$/.idea/scdemo.iml" />
+    </modules>
+  </component>
+</project>
