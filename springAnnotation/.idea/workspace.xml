@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aeddf9c-3d18-4582-a3f5-58400f901066" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/StudyDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../redis/src/main/java/com/redis/demo/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../redis/src/main/java/com/redis/demo/RedisUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../redis/src/test/java/com/redis/demo/a/testRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring/springLife/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jefflike/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jefflike/condition/linuxCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jefflike/condition/winCodition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jefflike/config/NBConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jefflike/config/OsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jefflike/springAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/springLife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring/springLife/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring/springLife/springLife.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/ActiveClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/ActiveServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/JMSConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/JMSPersistentTopicConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/JMSSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/JMSTopicConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/JMSTopicSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/broker/BrokerServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/broker/JMSConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQDemo/src/main/java/com/jeffcode/broker/JMSSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/java/com/jeffcode/printDemo/JavaSocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/java/com/jeffcode/printDemo/JavaSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/java/com/jeffcode/study/JavaSocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/java/com/jeffcode/study/JavaSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jefflike/springAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,7 +164,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,13 +219,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="F:/JavaRepository" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -281,18 +283,19 @@
       <workItem from="1569157087193" duration="1183000" />
       <workItem from="1569158325900" duration="4290000" />
       <workItem from="1569501565643" duration="598000" />
-      <workItem from="1569638319267" duration="598000" />
+      <workItem from="1569638319267" duration="1216000" />
+      <workItem from="1569757022679" duration="598000" />
+      <workItem from="1570539856976" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6669000" />
+    <option name="totallyTimeSpent" value="8483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="183" y="133" width="1364" height="726" extended-state="1" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18098159" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18634969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -401,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jefflike/springAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
