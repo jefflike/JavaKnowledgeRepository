@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="161a4306-b817-4695-a362-3d3591701f7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/java/com/jeffcode/udpDemo/udpProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaSocket/src/main/java/com/jeffcode/udpDemo/udpSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/AnonymousThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/ImplementsCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/ImplementsRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/TimerTaskDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/extendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/LockSequenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/SequenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/atomicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/staticSequenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/thread/AsyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/thread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/thread/asyncDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaThread/src/test/java/com/jeffcode/KiddingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ActiveMQDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ActiveMQDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaSocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSocket/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaSocket/javaSocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSocket/javaSocket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThread/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThread/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThread/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThread/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThread/src/main/java/com/jeffcode/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThread/target/classes/com/jeffcode/AnonymousThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThread/target/classes/com/jeffcode/AnonymousThread$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThread/target/classes/com/jeffcode/ThreadPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThread/target/classes/com/jeffcode/ThreadPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaThread/target/classes/com/jeffcode/ThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaThread/target/classes/com/jeffcode/ThreadPool.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springAnnotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springAnnotation/springAnnotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotation/springAnnotation.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -158,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -312,14 +315,49 @@
       <workItem from="1571825271970" duration="1770000" />
       <workItem from="1573363553659" duration="597000" />
       <workItem from="1573561649192" duration="598000" />
+      <workItem from="1573739769676" duration="594000" />
+      <workItem from="1573963803383" duration="597000" />
+      <workItem from="1574081924352" duration="593000" />
+      <workItem from="1574171929530" duration="593000" />
+      <workItem from="1574257673290" duration="594000" />
+      <workItem from="1574345381330" duration="596000" />
+      <workItem from="1574598248170" duration="593000" />
+      <workItem from="1574686342662" duration="597000" />
+      <workItem from="1575797493442" duration="597000" />
+      <workItem from="1575895680511" duration="594000" />
+      <workItem from="1576146732775" duration="593000" />
+      <workItem from="1576321555293" duration="594000" />
+      <workItem from="1576497369804" duration="596000" />
+      <workItem from="1576584735544" duration="598000" />
+      <workItem from="1576672797896" duration="598000" />
+      <workItem from="1576848944441" duration="595000" />
+      <workItem from="1576905817312" duration="592000" />
+      <workItem from="1577005623858" duration="598000" />
+      <workItem from="1577191998645" duration="598000" />
+      <workItem from="1577361738269" duration="597000" />
+      <workItem from="1577711401900" duration="598000" />
+      <workItem from="1577964711642" duration="598000" />
+      <workItem from="1578231328268" duration="7000" />
+      <workItem from="1578231711293" duration="212000" />
+      <workItem from="1578403764929" duration="598000" />
+      <workItem from="1578916776809" duration="595000" />
+      <workItem from="1579009170287" duration="7000" />
+      <workItem from="1579009245337" duration="198000" />
+      <workItem from="1579009480612" duration="284000" />
+      <workItem from="1579009806457" duration="598000" />
+      <workItem from="1579010501651" duration="230000" />
+      <workItem from="1579010773366" duration="598000" />
+      <workItem from="1579011459925" duration="598000" />
+      <workItem from="1579259817948" duration="598000" />
+      <workItem from="1580691720792" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28111000" />
+    <option name="totallyTimeSpent" value="46123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5328227" />

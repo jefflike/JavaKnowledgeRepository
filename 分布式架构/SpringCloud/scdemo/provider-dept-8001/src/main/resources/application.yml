@@ -1,5 +1,15 @@
 server:
   port: 8001
+
+# 角色授权
+#security:
+#  basic:
+#    enabled: true # 启用SpringSecurity的安全配置项
+#  user:
+#    name: jefflike  # 认证用户名
+#    password: helloLisa1 # 认证密码
+#    role:        # 授权角色
+#      - USER
   
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml        # mybatis配置文件所在路径
@@ -13,7 +23,7 @@ spring:
    datasource:
 #    type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: org.gjt.mm.mysql.Driver              # mysql驱动包
-    url: jdbc:mysql://localhost:3306/cloudDB01              # 数据库名称
+    url: jdbc:mysql://192.168.10.131:3306/cloudDB01?characterEncoding=UTF-8              # 数据库名称
     username: root
     password: 123456
     dbcp2:
@@ -24,7 +34,7 @@ spring:
       
 eureka:
   client: #客户端注册进eureka服务列表内
-    service-url: 
+    service-url:
       defaultZone: http://localhost:7001/eureka
 #      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
   instance:
@@ -33,7 +43,7 @@ eureka:
     
     
 info:
-  app.name: atguigu-microservicecloud
-  company.name: www.atguigu.com
+  app.name: microservicecloud
+  company.name: www.jeff.com
   build.artifactId: $project.artifactId$
-  build.version: $project.version$    
+  build.version: $project.version$

@@ -22,6 +22,12 @@
             <artifactId>api</artifactId>
             <version>${project.version}</version>
         </dependency>
+<!--        <dependency>
+            <groupId>com.jeffcode.scdemo</groupId>
+            <artifactId>security</artifactId>
+            <version>${project.version}</version>
+        </dependency>-->
+
         <!-- actuator监控信息完善 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -32,6 +38,11 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>
@@ -77,6 +88,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
+       <!-- 安全的验证处理增加 -->
+<!--        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>-->
     </dependencies>
 
     <dependencyManagement>

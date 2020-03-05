@@ -9,7 +9,13 @@
         <option value="$PROJECT_DIR$/parent/pom.xml" />
         <option value="$PROJECT_DIR$/RegistryCenter/pom.xml" />
         <option value="$PROJECT_DIR$/provider-dept-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-dept-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/security/pom.xml" />
+        <option value="$PROJECT_DIR$/RegistryCenter2/pom.xml" />
+        <option value="$PROJECT_DIR$/RegistryCenter3/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
