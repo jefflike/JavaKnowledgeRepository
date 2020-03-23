@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RegistryCenter/RegistryCenter.iml" filepath="$PROJECT_DIR$/RegistryCenter/RegistryCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_config/cloud_config.iml" filepath="$PROJECT_DIR$/cloud_config/cloud_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-dept-8002/consumer-dept-8002.iml" filepath="$PROJECT_DIR$/consumer-dept-8002/consumer-dept-8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegistryCenter/eureka.iml" filepath="$PROJECT_DIR$/RegistryCenter/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegistryCenter2/eureka2.iml" filepath="$PROJECT_DIR$/RegistryCenter2/eureka2.iml" />

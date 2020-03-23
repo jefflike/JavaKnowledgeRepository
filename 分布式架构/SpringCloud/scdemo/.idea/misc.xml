@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/RegistryCenter2/pom.xml" />
         <option value="$PROJECT_DIR$/RegistryCenter3/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud_config/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: consumer-orderzk8081
+  cloud:
+    zookeeper:
+      discovery:
+        instance-id: consumer-orderzk8081
+      connect-string: 192.168.10.131:2181

@@ -32,12 +32,16 @@ public class DeptController
     @HystrixCommand(fallbackMethod="getFallback") // 如果当前调用的get()方法出现了错误，则执行fallback
 	public Dept get(@PathVariable("id") Long id)
 	{
-        Dept dept = service.get(id);
+/*        Dept dept = service.get(id);
         if (dept == null) { // 数据不存在，假设让它抛出个错误
             throw new RuntimeException("部门信息不存在！") ;
-        }
+        }*/
 
-        return dept;
+		Dept dept = new Dept();
+		dept.setDeptno(110L);
+				dept.setDb_source("Jintao");
+				dept.setDname("jefflike");
+		return dept;
 	}
 
     public Object getFallback(@PathVariable("id") Long id) { // 此时方法的参数 与get()一致

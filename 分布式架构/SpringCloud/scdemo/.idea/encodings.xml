@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/RegistryCenter2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RegistryCenter3" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud_config/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/consumer-dept-8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway/src/main/resources/application.yaml" charset="UTF-8" />

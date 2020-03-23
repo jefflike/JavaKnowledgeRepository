@@ -2,457 +2,343 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3ea6cb5-f58f-48a1-bfb1-ce5be14bae9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeffcode/LockSequenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeffcode/SequenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeffcode/atomicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jeffcode/staticSequenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/AsyncService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thread/asyncDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_alibaba_druid_1_2_46.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_turbine_turbine_core_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_1_5_15_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_turbine_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_turbine_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_turbine_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_4_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/src/main/java/com/jeffcode/scdemo/scdemo/RegisterCenter2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter2/src/test/java/com/jeffcode/scdemo/scdemo/RegisterCenterApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/src/main/java/com/jeffcode/scdemo/scdemo/RegisterCenter3Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter3/src/test/java/com/jeffcode/scdemo/scdemo/RegisterCenterApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/common/MyLoadBalanceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/consumerdept8002/config/RestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/consumerdept8002/controller/ConsumerDeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/consumerdept8002/service/ConsumerDeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/consumerdept8002/service/IConsumerDeptServiceFallbackFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/gateway/src/main/java/com/jeffcode/gateway/AuthorizedRequestFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/gateway/src/main/java/com/jeffcode/gateway/ZuulFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/java/数据库创建脚本-8001.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/test/java/com/jeffcode/scdemo/scdemo/service/DeptServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/security/src/main/java/com/jeffcode/security/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ActiveMQDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ActiveMQDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaSocket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSocket/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_3_6_1_201501031845_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_4_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_4_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__cn_hutool_hutool_all_5_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_guava_guava_28_2_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_github_openfeign_feign_core_10_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__joda_time_joda_time_2_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_curator_curator_client_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_curator_curator_framework_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_curator_curator_recipes_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_curator_curator_x_discovery_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_freemarker_freemarker_2_3_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_discovery_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zookeeper_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zookeeper_discovery_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_zookeeper_core_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_zookeeper_discovery_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_aop_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_beans_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_context_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_core_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_expression_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_test_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_tx_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_web_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/api/src/main/java/com/jeffcode2020/api/entities/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/api/src/main/java/com/jeffcode2020/api/entities/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/order80/src/main/java/com/jeffcode2020/order80/OrderZKController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/order80/src/main/java/com/jeffcode2020/order80/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/order80/src/main/java/com/jeffcode2020/order80/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/src/main/java/com/jeffcode2020/order80/OrderConsul8082Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/src/main/java/com/jeffcode2020/order80/OrderConsulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/src/main/java/com/jeffcode2020/order80/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/src/main/java/com/jeffcode2020/order80/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderConsul8082/src/test/java/com/jeffcode2020/order80/Order80ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/main/java/com/jeffcode2020/order80/OrderOpenFeign8083Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/main/java/com/jeffcode2020/order80/OrderZKController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/main/java/com/jeffcode2020/order80/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/main/java/com/jeffcode2020/order80/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/main/java/com/jeffcode2020/order80/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderOpenFeign8083/src/test/java/com/jeffcode2020/order80/OrderOpenFeign8083ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/src/main/java/com/jeffcode2020/order80/OrderZKController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/src/main/java/com/jeffcode2020/order80/Orderzk8081Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/src/main/java/com/jeffcode2020/order80/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/src/main/java/com/jeffcode2020/order80/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/orderzk8081/src/test/java/com/jeffcode2020/order80/Order80ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/payment8001/src/main/java/com/jeffcode/payment8001/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/payment8001/src/main/java/com/jeffcode/payment8001/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/payment8001/src/main/java/com/jeffcode/payment8001/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/payment8001/src/main/java/com/jeffcode/payment8001/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/java/com/jeffcode/paymentzk8002/PaymentConsul8003Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/java/com/jeffcode/paymentzk8002/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/java/com/jeffcode/paymentzk8002/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/java/com/jeffcode/paymentzk8002/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/java/com/jeffcode/paymentzk8002/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentConsul8003/src/test/java/com/jeffcode/payment8001/PaymentConsul8003ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/paymentzk8002/src/test/java/com/jeffcode/payment8001/Paymentzk8002ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo2020/scdemo2020.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jeffcode/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jeffcode/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/AnonymousThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jeffcode/AnonymousThread$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springAnnotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springAnnotation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_alibaba_fastjson_1_2_46.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_test_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_test_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__tk_mybatis_mapper_3_5_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/AnonymousThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/AnonymousThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/AnonymousThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/Demo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ImplementsCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ImplementsRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/LockSequenceDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/LockSequenceDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/LockSequenceDemo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/LockSequenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/SequenceDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/SequenceDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/SequenceDemo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/SequenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/TimerTaskDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/TimerTaskDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/atomicTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/atomicTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/atomicTest$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/atomicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/extendThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/staticSequenceDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/staticSequenceDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/staticSequenceDemo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jeffcode/staticSequenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/AsyncService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/thread/asyncDemo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/estudy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_alibaba_druid_unknown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_7_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_7_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_32.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_32.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_server_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_11_v20180605.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_servlet_9_4_11_v20180605.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mortbay_jasper_apache_el_8_0_33.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mortbay_jasper_apache_el_8_0_33.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_analysis_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_analysis_6_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_commons_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_commons_6_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_tree_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_ow2_asm_asm_tree_6_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jetty_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jetty_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_15_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_15_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_3_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_3_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_3_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_3_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_3_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_3_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_3_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_1_4_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_1_4_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_1_4_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_1_4_6_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_test_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_test_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_springloaded_1_2_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_springframework_springloaded_1_2_8_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter/src/main/java/com/jeffcode/scdemo/scdemo/RegisterCenterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter/src/main/java/com/jeffcode/scdemo/scdemo/RegisterCenterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/RegistryCenter/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/java/com/jeffcode/scdemo/scdemo/ScdemoProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/java/com/jeffcode/scdemo/scdemo/ScdemoProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/consumerdept8002/controller/ConsumerDeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/consumer-dept-8002/src/main/java/com/jeffcode/consumerdept8002/controller/ConsumerDeptController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/java/com/jeffcode/scdemo/scdemo/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/java/com/jeffcode/scdemo/scdemo/controller/DeptController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../分布式架构/SpringCloud/scdemo/provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -468,38 +354,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/DevKit/JDK8/src.zip!/java/util/concurrent/CountDownLatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2546">
-              <caret line="171" column="22" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
-              <folding>
-                <element signature="e#5391#5392#0" expanded="true" />
-                <element signature="e#5448#5449#0" expanded="true" />
-                <element signature="e#9899#9900#0" expanded="true" />
-                <element signature="e#9936#9937#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://F:/DevKit/JDK8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23332">
-              <caret line="1283" column="5" selection-start-line="1283" selection-start-column="5" selection-end-line="1283" selection-end-column="5" />
-              <folding>
-                <element signature="e#41392#41393#0" expanded="true" />
-                <element signature="e#41449#41450#0" expanded="true" />
-                <element signature="e#44444#44445#0" expanded="true" />
-                <element signature="e#44501#44502#0" expanded="true" />
-                <element signature="e#45599#45600#0" expanded="true" />
-                <element signature="e#45656#45657#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -508,20 +362,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="513">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://F:/DevKit/JDK8/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="716" column="18" selection-start-line="716" selection-start-column="12" selection-end-line="716" selection-end-column="18" />
+              <folding>
+                <element signature="docComment;class#Thread#0" />
+                <element signature="e#15704#15705#0" expanded="true" />
+                <element signature="e#15770#15771#0" expanded="true" />
+                <element signature="e#19132#19133#0" expanded="true" />
+                <element signature="e#19175#19176#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jeffcode/extendThread.java">
+        <entry file="file://$PROJECT_DIR$/a.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="5" />
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -596,7 +480,6 @@
       <find>run</find>
       <find>init</find>
       <find>target</find>
-      <find>start</find>
       <find>callable</find>
       <find>run()</find>
       <find>get()</find>
@@ -605,6 +488,7 @@
       <find>tryAc</find>
       <find>enq</find>
       <find>readHolds</find>
+      <find>start</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -625,11 +509,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jeffcode/staticSequenceDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jeffcode/SequenceDemo.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jeffcode/atomicTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jeffcode/LockSequenceDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thread/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jeffcode/Demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java" />
+        <option value="$PROJECT_DIR$/a.txt" />
       </list>
     </option>
   </component>
@@ -674,9 +559,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="845" />
-    <option name="y" value="7" />
-    <option name="width" value="974" />
+    <option name="x" value="106" />
+    <option name="width" value="1231" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -685,8 +569,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -698,6 +582,57 @@
               <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaThread" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jeffcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -721,6 +656,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
   </component>
   <component name="RecentsManager">
@@ -740,7 +678,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="JUnit.KiddingTest.test2">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jeffcode.Demo" />
       <module name="javaThread" />
@@ -793,7 +731,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KiddingTest.单例测试" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KiddingTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaThread" />
       <extension name="coverage">
         <pattern>
@@ -803,7 +741,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.jeffcode" />
       <option name="MAIN_CLASS_NAME" value="com.jeffcode.KiddingTest" />
-      <option name="METHOD_NAME" value="单例测试" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -811,11 +749,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.KiddingTest.test2" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LockSequenceDemo" />
         <item itemvalue="Application.atomicTest" />
-        <item itemvalue="JUnit.KiddingTest.单例测试" />
       </list>
     </recent_temporary>
   </component>
@@ -894,6 +832,23 @@
       <workItem from="1583234849665" duration="598000" />
       <workItem from="1583330565684" duration="591000" />
       <workItem from="1583424501553" duration="596000" />
+      <workItem from="1583474499476" duration="599000" />
+      <workItem from="1583546879092" duration="1194000" />
+      <workItem from="1583643157439" duration="595000" />
+      <workItem from="1583650892705" duration="702000" />
+      <workItem from="1583760342447" duration="588000" />
+      <workItem from="1583803713534" duration="597000" />
+      <workItem from="1583928300334" duration="1863000" />
+      <workItem from="1584013875807" duration="594000" />
+      <workItem from="1584030797240" duration="1106000" />
+      <workItem from="1584175071027" duration="1285000" />
+      <workItem from="1584360515843" duration="595000" />
+      <workItem from="1584445657572" duration="595000" />
+      <workItem from="1584532700107" duration="581000" />
+      <workItem from="1584623262901" duration="599000" />
+      <workItem from="1584786916122" duration="588000" />
+      <workItem from="1584871926497" duration="590000" />
+      <workItem from="1584968062150" duration="592000" />
     </task>
     <servers />
   </component>
@@ -927,12 +882,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83465000" />
+    <option name="totallyTimeSpent" value="96728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="845" y="7" width="974" height="1040" extended-state="1" />
+    <frame x="106" y="0" width="1231" height="1040" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49227372" weight="0.4310722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49227372" visible="true" weight="0.38855678" />
       <window_info id="Structure" order="1" sideWeight="0.50772625" side_tool="true" weight="0.3522976" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -941,7 +896,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -951,7 +906,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289183" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3289183" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1003,20 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/DevKit/JDK8/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
-          <folding>
-            <element signature="docComment;class#Thread#0" />
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-            <element signature="e#19132#19133#0" expanded="true" />
-            <element signature="e#19175#19176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://F:/DevKit/JDK8/src.zip!/java/util/TimerTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -1061,16 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1206,6 +1137,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jeffcode/extendThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1213,10 +1151,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jeffcode/extendThread.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jeffcode/KiddingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="513">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1265,12 +1222,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thread/Main.java">
+    <entry file="jar://F:/DevKit/JDK8/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="446">
+          <caret line="716" column="18" selection-start-line="716" selection-start-column="12" selection-end-line="716" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;class#Thread#0" />
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+            <element signature="e#19132#19133#0" expanded="true" />
+            <element signature="e#19175#19176#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaThread</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

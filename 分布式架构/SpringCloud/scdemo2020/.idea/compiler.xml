@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="paymentzk8002" />
+        <module name="order80" />
+        <module name="api" />
+        <module name="orderConsul8082" />
+        <module name="eurekaserver7001" />
+        <module name="orderzk8081" />
+        <module name="orderOpenFeign8083" />
+        <module name="paymentConsul8003" />
+        <module name="payment8001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="eurekaserver7001" target="1.8" />
+      <module name="order80" target="1.8" />
+      <module name="orderConsul8082" target="1.8" />
+      <module name="orderOpenFeign8083" target="1.8" />
+      <module name="orderzk8081" target="1.8" />
+      <module name="payment8001" target="1.8" />
+      <module name="payment8001 (1)" target="1.8" />
+      <module name="paymentConsul8003" target="1.8" />
+      <module name="paymentzk8002" target="1.8" />
+      <module name="scdemo2020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api" options="" />
+      <module name="eurekaserver7001" options="" />
+      <module name="order80" options="" />
+      <module name="payment8001" options="" />
+      <module name="scdemo2020" options="-parameters" />
+    </option>
+  </component>
+</project>

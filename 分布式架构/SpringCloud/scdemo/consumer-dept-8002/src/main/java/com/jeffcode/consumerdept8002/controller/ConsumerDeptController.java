@@ -17,7 +17,8 @@ import org.springframework.web.client.RestTemplate;
 
 @RestController
 public class ConsumerDeptController {
-	public static final String DEPT_GET_URL = "http://MICROSERVICECLOUD-DEPT/dept/get/";
+//	public static final String DEPT_GET_URL = "http://MICROSERVICECLOUD-DEPT/dept/get/";
+	public static final String DEPT_GET_URL = "http://MICROCONFIG-TEST-DEV/dept/get/";
 	public static final String DEPT_LIST_URL = "http://MICROSERVICECLOUD-DEPT/dept/list/";
 	public static final String DEPT_ADD_URL = "http://MICROSERVICECLOUD-DEPT/dept/add";
 	@Resource
